@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(123, 18, 153);
+}
+
+#time {
+    text-align: center;
+    font-size: 100px;
+    color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    display: block;
+    background-color: #da4746;
+    height: 200px;
+    width: 200px;
+    border-radius:50%;
+    border: 1px solid orangered;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.blanker{
+    display: block;
+    height: 200px;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sButton {
+    display: inline;
+}
+
+.buttonLayout {
+    margin: auto;
+    position: relative;
+    top: 130px;
+}
+
+
+
